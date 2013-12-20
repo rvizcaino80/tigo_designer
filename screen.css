@@ -1,0 +1,276 @@
+/* apply a natural box layout model to all elements */
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+#content{
+	padding: 20px;
+	float: left;
+	width: 750px;
+}
+
+#inspector{
+	width: 250px;
+	background-color: #222;
+	float: left;
+	color: white;
+	padding: 15px;
+}
+
+#inspector h1{
+	padding: 0;
+	margin: 0;
+	font-size: 1.3em !important;
+	margin-bottom: 20px;
+	color: white;
+}
+
+#inspector>div{
+	display: none;
+}
+
+body, input, h1, h2{
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.container{
+	clear: both;
+	float: none;
+	border: 3px solid #99CC00;
+	margin-bottom: 30px;
+	padding: 30px 10px 10px 10px;
+	position: relative;
+	cursor: pointer;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.container.selected{
+	background-color: #99CC00;
+	border-color: #669900;
+}
+
+.container.selected .title{
+	color: white;
+}
+
+.container .title{
+	color: black;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
+.row{
+	clear: both;
+	float: none;
+	border: 2px solid #0099CC;
+	margin-bottom: 25px;
+	padding: 35px 10px 10px 10px;
+	position: relative;
+	background-color: #fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.add, .addRow, .addContainer{
+	padding: 15px;
+	border: 2px solid #000;
+	background-color: #222;
+	color: #fff;
+	float: left;
+	text-align: center;
+	width: 100px;
+	cursor: pointer;
+	height: 80px;
+	position: relative;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+
+.add:hover, .addRow:hover, .addContainer:hover{
+	background-color: #000;
+}
+
+.addRow.disabled{
+	background-color: #f4f4f4;
+	border-color: #d4d4d4;
+}
+
+.addRow.disabled .text, .addRow.disabled .sign{
+	color: #d4d4d4;
+}
+
+.add .sign, .addRow .sign, .addContainer .sign{
+	font-size: 3em;
+	padding: 0;
+	margin: 0;
+	line-height: 0.7em;
+}
+
+.add .text, .addRow .text, .addContainer .text{
+	font-size: 0.9em;
+}
+
+.lastRow{
+	clear: both;
+	float: none;
+}
+
+.element{
+	padding: 25px 10px;
+	border: 2px solid #FFBB33;
+	text-align: center;
+	width: 100px;
+	background-color: #fff;
+	cursor: pointer;
+	float: left;
+	height: 80px;
+	margin-right: 10px;
+	background-color: #fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	position: relative;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.element .key{
+	color: #222;
+	font-size: 0.8em;
+}
+
+.element .label{
+	color: #fff;
+	position: absolute;
+	width: 96px;
+	font-size: 0.9em;
+	background-color: #FFBB33;
+	top: 0;
+	left: 0;
+}
+
+.element.selected{
+	border-color: #FF8800;
+	background-color: #FFBB33;
+}
+
+.element.selected .label{
+	background-color: #FF8800;
+}
+
+.add .menu{
+	background-color: #222;
+	color: white;
+	border: 2px solid #000;
+	position: absolute;
+	width: 150px;
+	padding: 0;
+	margin: 0;
+	top: 76px;
+	left: -2px;
+	list-style: none;
+	z-index: 10000;
+	display: none;
+}
+
+.add .menu li{
+	padding: 0;
+	border-bottom: 1px solid #444;
+	padding: 5px;
+	text-align: left;
+	padding-left: 10px;
+}
+
+.add .menu li:hover{
+	background-color: #000;
+}
+
+
+.add .menu li:last-child{
+	border-bottom: none;
+}
+
+.clear{
+	clear: both;
+	float: none;
+}
+
+label.containerLabel{
+	position: absolute;
+	font-size: 0.8em;
+	top: 0px;
+	left: 0px;
+	background-color: #99CC00;
+	padding: 3px 5px;
+	color: white;
+}
+
+label.rowLabel{
+	position: absolute;
+	font-size: 0.8em;
+	top: 0px;
+	left: 0px;
+	background-color: #0099CC;
+	padding: 3px 5px;
+	color: white;
+}
+
+input[type=text]{
+	outline: none;
+	background-color: transparent;
+	padding: 0;
+	border: none;
+	border-bottom: 1px solid #444;
+	padding: 5px;
+	color: white;
+	width: 100%;
+}
+
+input[type=text]:focus{
+	border-color: white;
+}
+
+.button{
+	border: none;
+	margin-top: 20px;
+	background-color: #D2D2D2;
+	color: #222;
+	border-bottom: 1px solid #767676;
+	padding: 5px;
+}
+
+h1{
+	font-size: 2em;
+	color: #222;
+	padding: 0;
+	margin: 0;
+	font-weight: 300;
+	padding-bottom: 15px;
+}

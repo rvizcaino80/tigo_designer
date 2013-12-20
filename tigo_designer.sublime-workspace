@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"oci_fe",
+				"oci_fetch_object"
+			],
+			[
+				"db",
+				"dbgw"
+			],
+			[
+				"listp",
+				"listPlanesDPI"
+			],
+			[
+				"listpl",
+				"listPlanesMcAfee"
+			],
+			[
+				"listTi",
+				"listTipoPqr"
+			],
+			[
+				"cancelaci",
+				"Cancelación"
+			],
+			[
+				"RA",
+				"RA_FMS_CASOS"
+			],
+			[
+				"max",
+				"maxDate"
+			],
+			[
+				"dbe",
+				"dbmedsopven"
+			],
+			[
+				"dbme",
+				"dbmedtcontrol01"
+			],
+			[
+				"total",
+				"total_con_equipo"
+			],
+			[
+				"sal",
+				"SALE_TYPE"
+			],
+			[
+				"pre",
+				"prepago"
+			],
+			[
+				"ve",
+				"vendor_channel_id"
+			],
+			[
+				"perc",
+				"percentPre"
+			],
+			[
+				"pmo",
+				"pmonth"
+			],
+			[
+				"al",
+				"altas_x_score"
+			],
+			[
+				"salety",
+				"saletype"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"aver",
+				"averageMoneyByTxArray"
+			],
+			[
+				"ave",
+				"averageMoneyArray"
+			],
+			[
+				"mon",
+				"money"
+			],
+			[
+				"selec",
+				"selectedDate"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"tot",
+				"totalRecords"
+			],
+			[
+				"fecha",
+				"fecha_activacion"
+			],
+			[
+				"days",
+				"actual_days_in_month"
+			],
+			[
+				"aso",
+				"asobancariaChequeTotal"
+			],
+			[
+				"as",
+				"asobancariaFisicoEmail"
+			],
+			[
+				"array_",
+				"array_reverse"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"conver",
+				"convertMonthNumberToShortName"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"ord",
+				"orderDetail"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"error",
+				"error_reporting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1556,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "screen.css",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json ",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/rogers/tablero/configuration/general.php",
+		"/D/rogers/tablero/classes/user.php",
+		"/D/rogers/tablero/classes/dbMapperPdo.php",
+		"/D/rogers/tablero/processes/transactions.php",
+		"/D/rogers/tablero/processes/ra_fms_casos.php",
+		"/D/rogers/tablero/processes/vendors.php",
+		"/D/rogers/tablero/configuration/db.php",
+		"/D/rogers/tablero/classes/dbPdo.php",
+		"/D/rogers/tablero/templates/main.php",
+		"/D/rogers/tablero/controllers/activations/vendor.php",
+		"/D/rogers/tablero/classes/vendor.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/finales/01_json_posventas_unico.json",
+		"/D/rogers/tablero/processes/act_report_am.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/finales/15_json_posventas_legalizacion_prepago.json",
+		"/D/rogers/tablero/processes/act_report_am_prepago.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/maestroAbril4.csv",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/finales/14_json_posventas_roaming.json",
+		"/D/rogers/tablero/test.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_servicio_tecnico.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_listas_blancas.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_contactos_autorizados.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_posventas2.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_internet_movil.json",
+		"/D/rogers/tablero/index.php",
+		"/D/rogers/tablero/includes/init.php",
+		"/D/rogers/tablero/processes/autogestion.php",
+		"/D/rogers/tablero/controllers/bio/export1.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/test.md",
+		"/D/rogers/tablero/test.html",
+		"/D/rogers/tablero/processes/altas_score.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_renoRepoPuntos.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/test.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/formatos/json_mcafee.json",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/trabajadores.csv",
+		"/D/rogers/tablero/processes/mapgw.php",
+		"/D/rogers/tablero/processes/bio.php",
+		"/D/rogers/tablero/processes/plans.php",
+		"/D/rogers/tablero/processes/devolutions.php",
+		"/D/rogers/tablero/processes/altas_score_v2.php",
+		"/D/rogers/mailer/proccess_queue.php",
+		"/D/rogers/mailer/configuration/init.php",
+		"/D/rogers/tablero/processes/activacionesVsPolitica.php",
+		"/D/rogers/tablero/processes/test.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/activadas2013.csv",
+		"/D/rogers/tablero/processes/rep_cartera.php",
+		"/D/rogers/tablero/processes/reporte_iq.php",
+		"/D/rogers/tablero/classes/activation.php",
+		"/D/rogers/tablero/controllers/activations/plu.php",
+		"/D/rogers/tablero/processes/export_codpos.php",
+		"/D/rogers/tablero/classes/bio.php",
+		"/D/rogers/tablero/processes/activations.php",
+		"/D/rogers/tablero/fonts/dejavu/DejaVuSans-BoldOblique-webfont.svg",
+		"/D/rogers/tablero/libraries/phpExcel/Documentation/API/PHPExcel_Worksheet/PHPExcel_Worksheet_SheetView.html",
+		"/D/rogers/tablero/processes/info_inscritos.php",
+		"/D/rogers/tablero/processes/act_report_pm.php",
+		"/D/rogers/tablero/classes/helper.php",
+		"/D/rogers/tablero/mailer/proccess_queue.php",
+		"/D/rogers/tablero/mailer/configuration/init.php",
+		"/D/rogers/tablero/libraries/jquery.jcrop/demos/non-image.html",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/osteomedical.csv",
+		"/D/rogers/ventas_cargue/index.php",
+		"/D/rogers/tablero/controllers/activations/doctype.php",
+		"/D/rogers/tablero/controllers/activations/dashboard.php",
+		"/D/rogers/tablero/controllers/activations/ussd.php",
+		"/D/rogers/tablero/controllers/renovations/trimonth.php",
+		"/D/rogers/tablero/templates/main_nomenu.php",
+		"/D/rogers/tablero/classes/renovation.php",
+		"/D/rogers/tablero/controllers/renovations/day.php",
+		"/D/rogers/tablero/controllers/bio/codpos.php",
+		"/D/rogers/tablero/processes/datacredit_no_activation.php",
+		"/D/rogers/tablero/controllers/datacredito/worst_offenders.php",
+		"/D/rogers/tablero/classes/datacredito.php",
+		"/D/rogers/tablero/sftp-config.json",
+		"/D/rogers/tablero/controllers/datacredito/no_activation.php",
+		"/D/rogers/tablero/css/main.css",
+		"/D/rogers/tablero/processes/scoreconsultaudit.php",
+		"/D/rogers/tablero/controllers/datacredito/index.php",
+		"/D/rogers/tablero/controllers/activations/transits.php",
+		"/D/rogers/tablero/css/mainmenu.css",
+		"/D/rogers/tablero/processes/evidente_history.php",
+		"/D/rogers/tablero/libraries/jquery.highcharts/js/highcharts.js",
+		"/D/Portables/Sublime Text 2.0.2/Data/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/D/Portables/Sublime Text 2.0.2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/rogers/tablero/.htaccess",
+		"/D/rogers/tablero/processes/demogra.php",
+		"/D/rogers/tablero/processes/clausulas.php",
+		"/D/rogers/tablero/processes/transitoyfraude.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/INFO_CLIENTE_DEMOGRA.sql",
+		"/D/rogers/tablero/classes/permission.php",
+		"/D/rogers/tablero/controllers/login/login-check.php",
+		"/D/rogers/tablero/templates/login.php",
+		"/D/rogers/tablero/classes/upload.php",
+		"/D/data/sublime-sftp-browse-1378221679/mapped/home/app/tablero/.htaccess",
+		"/D/rogers/tablero/classes/payment.php",
+		"/D/rogers/tablero/controllers/payments/devolutions.php",
+		"/D/rogers/tablero/controllers/payments/bypaymentdate.php",
+		"/D/rogers/tablero/controllers/costs/billing.php",
+		"/D/rogers/tablero/controllers/payments/billing.php",
+		"/D/rogers/tablero/controllers/bio/usabilityDetails.php",
+		"/D/rogers/tablero/controllers/payments/bysendtype.php",
+		"/D/rogers/tablero/controllers/payments/detail.php",
+		"/D/rogers/tablero/controllers/payments/general.php",
+		"/D/rogers/tablero/controllers/devolutions/detail.php",
+		"/D/rogers/tablero/classes/detail.php",
+		"/D/rogers/tablero/mailer/email.html",
+		"/D/rogers/tablero/mailer/controllers/campaigns/save-data.php",
+		"/D/rogers/tablero/mailer/classes/campaign.php",
+		"/D/data/sublime-sftp-browse-1376508198/mapped/home/app/mailer/proccess_queue.php",
+		"/D/rogers/tablero/mailer/classes/queue.php",
+		"/D/rogers/tablero/mailer/controllers/campaigns/save-html.php",
+		"/D/rogers/tablero/controllers/admin/savepage.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/tmp2.csv",
+		"/D/rogers/tablero/controllers/bio/goals.php",
+		"/D/rogers/tablero/controllers/bio/ajax_stores2.php",
+		"/D/rogers/tablero/controllers/activations/greencard.php",
+		"/D/Documents and Settings/rogers.vizcaino/Mis documentos/Cargos vs perfil vs persona.csv",
+		"/D/rogers/tablero/classes/activation_cost.php",
+		"/D/rogers/tablero/classes/ussd.php",
+		"/D/rogers/tablero/processes/bio_exclusions.php",
+		"/D/rogers/tablero/processes/ventas_periodo.php",
+		"/D/Portables/Sublime Text 2.0.2/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/rogers/amoree/admin/controllers/purchaseOrders/list.php",
+		"/D/rogers/amoree/admin/controllers/campaigns/updateproduct.php",
+		"/D/rogers/amoree/admin/init.php",
+		"/D/rogers/amoree/admin/controllers/products/edit.php",
+		"/D/rogers/amoree/classes/product.php",
+		"/D/rogers/amoree/admin/controllers/products/update.php",
+		"/D/rogers/amoree/admin/controllers/orders/update.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"D:\\rogers\\tablero\\processes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" class=\"text\"",
+			".",
+			"80",
+			"dbgw",
+			"\\u00fa",
+			"\\u00ed",
+			"\\u00e1",
+			"\\u00f3",
+			"dbgw",
+			"dbsira",
+			"30",
+			"  ",
+			" ;",
+			";;;;",
+			"\"",
+			"33",
+			"listTipo",
+			"{\n  \"title\": \"Orden Manual Servicio Técnico\",\n  \"version\": \"0.1\",\n  \"lists\": {\n    \"listTipoEquipo\": [\n      \"\",\n      \"Nacional\",\n      \"Internacional\"\n    ],\n    \"listTipo\": [\n      \"\",\n      \"Activar Paquete\",\n      \"Activacion Servicio\",\n      \"Cambio\",\n      \"Cambio de Equipo\",\n      \"Cancelacion\",\n      \"Desactivar Paquete\",\n      \"Desactivacion Servicio\",\n      \"Facturacion\",\n      \"Paquetes\",\n      \"Reactivacion\",\n      \"Suspension\",\n      \"Otros\"\n    ],\n    \"listPlanes\": [\n      \"\",\n      \"Arma tu plan Básico\",\n      \"Arma tu plan Simple\",\n      \"Arma tu plan Super\",\n      \"Arma tu plan Mas\",\n      \"Arma tu plan Extra\",\n      \"Arma tu plan Ideal\",\n      \"Arma tu plan Plus\",\n      \"Arma tu plan Movil\",\n      \"Arma tu plan Optimo\",\n      \"Arma tu plan Premium\",\n      \"Arma tu plan VIP\",\n      \"Arma tu plan Oro\"\n    ],\n    \"listTipoDocumento\": [\n      \"\",\n      \"C.C.\",\n      \"C.E.\",\n      \"NIT\",\n      \"NIT Extranjería\"\n    ],\n    \"listTipoCliente\": [\n      \"Cliente\",\n      \"Representante Legal\",\n      \"Autorizado\"\n    ],\n    \"listPuntoRecepcion\": [\n      \"CDSV\",\n      \"CDSVD\",\n      \"Retail\"\n    ],\n    \"listCambioChip\": [\n      \"\",\n      \"Robo\",\n      \"Perdida\",\n      \"Daño\"\n    ],\n    \"listCambioImei\": [\n      \"\",\n      \"Soporte Técnico\",\n      \"Seguro\",\n      \"Renovación\",\n      \"Reposición\"\n    ],\n    \"listSuspension\": [\n      \"\",\n      \"Robo\",\n      \"Perdida\",\n      \"Voluntaria\"\n    ],\n    \"listInternet\": [\n      \"\",\n      \"Modem\",\n      \"Smartphone\"\n    ],\n    \"listFavoritos\": [\n      \"\",\n      \"Bacanos\",\n      \"Parceros\"\n    ]\n  },\n  \"nestedLists\": {\n    \"listaTx\": {\n      \"\": [\n        \"\"\n      ],\n      \"Activar Paquete\": [\n        \"Activar Paquete de Asistencia\",\n        \"Activar Paquete Blackberry\",\n        \"Activar Paquete Clausula\",\n        \"Activar Paquete Favoritos\",\n        \"Activar Paquete GPRS\",\n        \"Activar Paquete McAffe\",\n        \"Activar Paquete DPI\"\n      ],\n      \"Cambio\": [\n        \"Cambio de Chip\",\n        \"Cambio de Numero\"\n      ],\n      \"Cambio de Equipo\": [\n        \"Cambio de Equipo Homologado\",\n        \"Cambio de Equipo Reposicion\",\n        \"Reposicion\"\n      ],\n      \"Cancelacion\": [\n        \"Cancelación de Roaming\"\n      ],\n      \"Desactivar Paquete\": [\n        \"Desactivar Paquete de Asistencia\",\n        \"Desactivar Paquete Blackberry\",\n        \"Desactivar Paquete Clausula\",\n        \"Desactivar Paquete Favoritos\",\n        \"Desactivar Paquete GPRS\",\n        \"Desactivar Paquete McAffe\",\n        \"Desactivar Paquete DPI\"\n      ],\n      \"Facturacion\": [\n        \"Facturacion Resumida / Detallada\",\n        \"Facturacion Fisica / Electronica\"\n      ],\n      \"Activacion Servicio\": [\n        \"Activar Entrantes\",\n        \"Activar Buzon De Voz\",\n        \"Activar LDI\",\n        \"Activar Numero Privado\",\n        \"Activar Roaming\"\n      ],\n      \"Desactivacion Servicio\": [\n        \"Desactivar Entrantes\",\n        \"Desactivar Buzon De Voz\",\n        \"Desactivar LDI\",\n        \"Desactivar Numero Privado\",\n        \"Desactivar Roaming\"\n      ],\n      \"Paquetes\": [\n        \"Compra Cancelación Generico\"\n      ],\n      \"Reactivacion\": [\n        \"Reactivacion por Cartera\",\n        \"Reactivacion Robo o Perdida\",\n        \"Reactivacion Suspension Temporal\",\n        \"Reconexion Cartera\",\n        \"Reconexion Linea Control / Pos\"\n      ],\n      \"Suspension\": [\n        \"Robo o Perdida Chip\",\n        \"Robo o Perdida Chip / Equipo\"\n      ],\n      \"Otros\": [\n        \"Reseteo Clave de Red\"\n      ]\n    }\n  },\n  \"containers\": [\n    {\n      \"title\": \"Datos Básicos\",\n      \"name\": \"1\",\n      \"rows\": [\n        {\n          \"items\": [\n            {\n              \"key\": \"fecha\",\n              \"type\": \"todayText\",\n              \"format\": \"%d/%m/%y %H:%M\",\n              \"label\": \"Fecha Solicitud\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"60\",\n              \"size\": 25\n            },\n            {\n              \"key\": \"documentoAsesor\",\n              \"type\": \"number\",\n              \"label\": \"Documento Asesor\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"60\",\n              \"size\": 30\n            },\n            {\n              \"key\": \"codpos\",\n              \"type\": \"number\",\n              \"label\": \"Codigo POS Tienda\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"12\",\n              \"size\": 34\n            }\n          ]\n        },\n        {\n          \"items\": [\n            {\n              \"key\": \"ordenServicio\",\n              \"type\": \"text\",\n              \"label\": \"Orden Servicio\",\n              \"required\": true,\n              \"minLength\": \"2\",\n              \"maxLength\": \"50\",\n              \"size\": 30\n            },\n            {\n              \"key\": \"nombres\",\n              \"type\": \"text\",\n              \"label\": \"Nombres / Razón Social\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"60\",\n              \"size\": 34,\n              \"validationRegex\": \"[A-Za-z]+\"\n            }\n          ]\n        },\n        {\n          \"items\": [\n            {\n              \"key\": \"address\",\n              \"type\": \"text\",\n              \"label\": \"Dirección\",\n              \"required\": true,\n              \"minLength\": \"2\",\n              \"maxLength\": \"50\",\n              \"size\": 55\n            },\n            {\n              \"key\": \"phone\",\n              \"type\": \"text\",\n              \"label\": \"Teléfono fijo\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"10\",\n              \"size\": 34\n            }\n          ]\n        },\n        {\n          \"items\": [\n            {\n              \"key\": \"tipoDocumento\",\n              \"type\": \"select\",\n              \"required\": true,\n              \"label\": \"Tipo Documento\",\n              \"refValues\": \"listTipoDocumento\",\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 25\n            },\n            {\n              \"key\": \"numeroDocumento\",\n              \"type\": \"number\",\n              \"label\": \"Número Documento\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 30\n            },\n            {\n              \"key\": \"movil\",\n              \"type\": \"number\",\n              \"label\": \"Número Móvil\",\n              \"required\": true,\n              \"minLength\": \"10\",\n              \"maxLength\": \"10\",\n              \"size\": 34,\n              \"validationRegex\": \"(3)[0-9]+\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"title\": \"Equipos a Ingresar\",\n      \"name\": \"equipos\",\n      \"rows\": [\n        {\n          \"items\": [\n            {\n              \"key\": \"marca\",\n              \"type\": \"text\",\n              \"label\": \"Marca\",\n              \"required\": true,\n              \"minLength\": \"2\",\n              \"maxLength\": \"70\",\n              \"size\": 33\n            },\n            {\n              \"key\": \"modelo\",\n              \"type\": \"text\",\n              \"label\": \"Modelo\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 33\n            },\n            {\n              \"key\": \"imei\",\n              \"type\": \"number\",\n              \"label\": \"IMEI\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 33\n            }\n          ]\n        },\n        {\n          \"items\": [\n            {\n              \"key\": \"accesorios\",\n              \"type\": \"checkbox\",\n              \"label\": \"Accesorios\",\n              \"values\": [\n                \"Bateria\",\n                \"Cargador\",\n                \"Antena\",\n                \"Manos Libres\",\n                \"Tapa Bateria\",\n                \"SIM-Card\",\n                \"Memoria\"\n              ],\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 25\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"title\": \"Datos Adicionales\",\n      \"name\": \"adicionales\",\n      \"rows\": [\n        {\n          \"items\": [\n            {\n              \"key\": \"falla\",\n              \"type\": \"textarea\",\n              \"label\": \"Falla manisfestada por el usuario\",\n              \"required\": true,\n              \"size\": \"100\",\n              \"height\": \"120\"\n            }\n          ]\n        },\n        {\n          \"items\": [\n            {\n              \"key\": \"observaciones\",\n              \"type\": \"textarea\",\n              \"label\": \"Estado del Equipo\",\n              \"required\": true,\n              \"size\": \"100\",\n              \"height\": \"120\"\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"title\": \"Datos de Loaner\",\n      \"name\": \"equipos\",\n      \"rows\": [\n        {\n          \"items\": [\n            {\n              \"key\": \"marcaLoaner\",\n              \"type\": \"text\",\n              \"label\": \"Marca\",\n              \"minLength\": \"2\",\n              \"maxLength\": \"70\",\n              \"size\": 33\n            },\n            {\n              \"key\": \"modeloLoaner\",\n              \"type\": \"text\",\n              \"label\": \"Modelo\",\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 33\n            },\n            {\n              \"key\": \"imeiLoaner\",\n              \"type\": \"number\",\n              \"label\": \"IMEI\",\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 33\n            }\n          ]\n        },\n        {\n          \"items\": [\n            {\n              \"key\": \"accesoriosLoaner\",\n              \"type\": \"checkbox\",\n              \"label\": \"Accesorios\",\n              \"values\": [\n                \"Bateria\",\n                \"Cargador\",\n                \"Antena\",\n                \"Manos Libres\",\n                \"Tapa Bateria\",\n                \"SIM-Card\",\n                \"Memoria\"\n              ],\n              \"minLength\": \"3\",\n              \"maxLength\": \"70\",\n              \"size\": 25\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"title\": \"Datos de Cobro\",\n      \"name\": \"equipos\",\n      \"rows\": [\n        {\n          \"items\": [\n            {\n              \"key\": \"cobroAutorizado\",\n              \"type\": \"select\",\n              \"label\": \"Cobro Maximo Autorizado Fuera de Garantia\",\n              \"values\": [\n                \"0\",\n                \"$27.000\",\n                \"$56.000\",\n                \"$70.000\",\n                \"$100.000\",\n                \"$150.000\"\n              ],\n              \"size\": 60\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+			"20",
+			"(30)",
+			"observaci",
+			"{\n  \"title\" : \"Cláusula de permanencia\",\n  \"version\" : \"0002\",\n  \"settings\": {\n    \"policy\": {\n      \"typeSign\": \"ATTACHED\",\n      \"typeFormatSign\": \"DIGITALIZED_SIGN\",\n      \"params\": {\n        \"digitalizedSignBackColor\": \"\",\n        \"digitalizedSignColor\": \"\",\n        \"digitalizedSignHelpText\": \"digitalizedHelp\",\n        \"fileName\": \"exampleSign.pdf\",\n        \"biometricAlias\": \"xnoccio\",\n        \"biometricPass\": \"12345\",\n        \"logo\": \"false\",\n        \"op\": \"pen\",\n        \"signPositionEnable\": \"true\",\n        \"PDF_ANNOTATION_RECTANGLE\": {\n          \"height\": 93,\n          \"width\": 73,\n          \"y\": 577,\n          \"x\": 478\n        },\n        \"PDF_ANNOTATION_PAGE\": \"1\"\n      }\n    },\n    \"titleKey\": \"Cláusula de permanencia\",\n    \"descriptionKey\": \"para equipos con planes de voz y/o datos\",\n    \"callbackURL\": \"http://dev.viafirma.com/mobile-services-example/response\"\n  },\n  \"lists\": {\n    \"dias\": [\n      \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\", \"20\", \"21\", \"22\", \"23\", \"24\", \"25\", \"26\", \"27\", \"28\", \"29\", \"30\", \"31\"\n    ],\n    \"mesesClausula\" : [\n      \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"11\", \"12\", \"13\", \"14\", \"15\", \"16\", \"17\", \"18\", \"19\", \"20\", \"21\", \"22\", \"23\", \"24\", \"25\", \"26\", \"27\", \"28\", \"29\", \"30\", \"31\", \"32\", \"33\", \"34\", \"35\", \"36\"],\n    \"meses\": [\n      \"Enero\",\n      \"Febrero\",\n      \"Marzo\", \"Abril\", \"Mayo\", \"Junio\", \"Julio\", \"Agosto\", \"Septiembre\", \"Octubre\", \"Noviembre\", \"Diciembre\"\n    ],\n    \"años\": [\n      \"2012\", \"2013\", \"2014\", \"2015\", \"2016\", \"2017\", \"2018\", \"2019\", \"2020\", \"2021\", \"2022\", \"2023\", \"2024\", \"2025\"\n    ],\n    \"tipo_documento\": [\n     \"\", \"CC\", \"CE\", \"NIT\", \"NIT Extranjería\"\n    ],\n    \"tipo_equipo\": [\n     \"\", \"Modem\", \"Equipo\"\n    ],\n    \"tipo_transaccion\": [\n     \"Renovación\",\n     \"Reposición\"\n    ],\n    \"tipo_clausula\": [\n     \"\", \"12\", \"18\", \"24\"\n    ],\n    \"tipo_gama\": [\n     \"\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\"\n    ],\n    \"planes\": [\n       \"\",    \n     \"Arma tu plan Básico\", \n     \"Arma tu plan Simple\", \n     \"Arma tu plan Super\",\n     \"Arma tu plan Mas\",\n     \"Arma tu plan Extra\",\n     \"Arma tu plan Ideal\",\n     \"Arma tu plan Plus\",\n     \"Arma tu plan Movil\",\n     \"Arma tu plan Optimo\",\n     \"Arma tu plan Premium\",\n     \"Arma tu plan VIP\",  \n     \"Arma tu plan Oro\",\n     \"Plan Datos Blackberry BB Plus Control\",\n       \"Plan Datos Blackberry BIS 2 GB Control\",\n       \"Plan Datos Blackberry BIS 250 MB Control\",\n       \"Plan Datos Mes 1 GB con Corte Control\",\n       \"Plan Datos Mes 1 GB con Corte Control Econo\",\n       \"Plan Datos Mes 2 GB con Corte Control\",\n       \"Plan Datos Mes 2 GB con Corte Control Econo\",\n       \"Plan Datos Mes 3 GB con Corte Control\",\n       \"Plan Datos Mes 5 GB con Corte Control\",\n       \"Plan Datos Mes 500 MB con Corte Control\",\n       \"Plan Datos Mes 500 MB Control Econo\",\n       \"Plan Datos Tigo Control Blackberry Lite\",\n       \"Plan Datos Tigo Control Blackberry Social\",\n       \"Plan Internet Movil Tigo Control\",\n       \"Plan SMS Integrador 3\",\n       \"Tigo Control 1000 minutos\",\n       \"Tigo Control 500 minutos\",\n       \"Tigo Control Bacano 2\",\n       \"Tigo Control Empresa 2\",\n       \"Tigo Control Empresa 3\",\n       \"Tigo Control Estudiante Bacano\",\n       \"Tigo Control Parcero 2\",\n       \"Tigo Control PYME Simple 1\",\n       \"Tigo Control PYME Simple 1 CUG\",\n       \"Tigo Control PYME Simple 2\",\n       \"Tigo Control PYME Simple 2 CUG\",\n       \"Tigo Control PYME Simple 3\",\n       \"Tigo Control PYME Simple 4\",\n       \"Tigo Control Super Bacano\",\n       \"Tigo Control Tarifa Simple 3\",\n       \"Tigo Empresa 3\",\n       \"Otro...\"\n   ],\n     \"tipo_subsidio\": [\n         \"\", \"80.000\", \"170.000\", \"260.000\", \"400.000\", \"500.000\", \"800.000\", \"1.000.000\", \"1.500.000\"\n  \n       ],  \"marcas\": [\n     \"\",\n     \"Apple\",\n       \"BlackBerry\",\n       \"Huawei\",\n       \"LG\",\n       \"Nokia\",\n       \"Samsung\",\n       \"ZTE\",\n       \"Otra...\"\n       ]},\n       \"nestedLists\" : {\n       \"listaReferencias\" : {  \"\" : [\"\"],\n                         \"Apple\" : [\"3002431 - Iphone 4 Negro 8Gb\",\n                                    \"3002432 - Iphone 4 Blanco 8Gb\",\n                                    \"3002915 - Iphone 5 Negro 16 GB\",\n                                    \"3002916 - Iphone 5 Blanco 16 GB\",\n                                    \"3002917 - Iphone 5 Negro 32 GB\",\n                                    \"3002918 - Iphone 5 Blanco 32 GB\",\n                                    \"3002919 - Iphone 5 Negro 64 GB\"],\n                         \"BlackBerry\" : [\"3003046 - BlackBerry Z10\",\n                                        \"3003100 - BlackBerry Z10 Blanco\",\n                                        \"3002703 - BlackBerry 9320 \",\n                                        \"3003045 - BlackBerry 9320 Blanco\"],\n                        \"Samsung\" : [\"3003008 - Samsung Galaxy Note 2 Gris\",\n                                     \"3003009 - Samsung Galaxy Note 2 Blanco\",\n                                     \"3003082 - Samsung Galaxy S4 Blanco\",\n                                     \"3003083 - Samsung Galaxy S4 Negro\",\n                                     \"3002740 - Samsung Galaxy S3 Azul\",\n                                     \"3002741 - Samsung Galaxy S3 Blanco\",\n                                     \"3003041 - Samsung Galaxy S3 Negro\",\n                                     \"3003002 - Samsung Galaxy Mini Blanco\",\n                                     \"3003003 - Samsung Galaxy Mini Azul\",\n                                     \"3003068 - Samsung Galaxy S Duos Blanco Dual SIM\",\n                                     \"3003050 - Samsung Galaxy S Duos Negro Dual SIM\",\n                                     \"3003064 - Samsung Galaxy Young\",\n                                     \"3003063 - Samsung Galaxy Grand\",\n                                     \"3002410 - Samsung Galaxy Ace Negro\",\n                                     \"3002942 - Samsung Galaxy Ace Blanco\",\n                                     \"3003084 - Samsung Galaxy Ace 2 (Fame) Blanco\",\n                                     \"3003062 - Samsung Galaxy Ace 2 (Fame) Azul\",\n                                     \"3003152 - Samsung Galaxy S4 LTE Blanco\",\n                                     \"3003151 - Samsung Galaxy S4 LTE Negro\",\n                                     \"3003137 - Samsung Galaxy S4 Mini LTE Negro\",\n                                     \"3003144 - Samsung Galaxy S4 Mini LTE Blanco\",\n                                     \"3003145 - Samsung Galaxy S4 ZOOM\",\n                                     \"3002805 - Samsung Galaxy Pocket\"],\n                            \"Huawei\" : [\"3003112 - Huawei Ascend P6\",\n                                        \"3002939 - Huawei Ascend P1\",\n                                        \"3002940 - Huawei Ascend P1 XL\",\n                                        \"3003055 - Huawei Ascend Y300\",\n                                        \"3003133 - Huawei Ascend Y320\",\n                                        \"3003010 - Huawei Ascend Y210\",\n                                        \"3002938 - Huawei Ascend Y210 Dual Sim\",\n                                        \"3003040 - Huawei Honor 2\",\n                                        \"3003140 - Huawei G610\"],\n                                \"LG\" :[ \"3003060 - LG Optimus L9\",\n                                        \"3002941 - LG Optimus L5\",\n                                        \"3003058 - LG Optimus L5 Dual SIM\",\n                                        \"3003057 - LG Optimus L3 Dual SIM\"],\n                                \"Nokia\" : [ \"3003047 - Nokia Lumia 920\",\n                                            \"3002964 - Nokia Lumia 520\",\n                                            \"3003048 - Nokia Lumia 620\",\n                                            \"3003105 - Nokia Lumia 720\"],\n                                \"ZTE\" : [\"3003043 - ZTE V791\"],\n                                \"Otra...\" : [\"Otra...\"]\n }, \"listaGamas\" :  {   \"\" : [\"\"],\n                        \"3002431 - Iphone 4 Negro 8Gb\": [\"7\"],\n\"3002432 - Iphone 4 Blanco 8Gb\": [\"7\"],\n\"3002915 - Iphone 5 Negro 16 GB\": [\"7\"],\n\"3002916 - Iphone 5 Blanco 16 GB\": [\"7\"],\n\"3002917 - Iphone 5 Negro 32 GB\": [\"7\"],\n\"3002918 - Iphone 5 Blanco 32 GB\": [\"7\"],\n\"3002919 - Iphone 5 Negro 64 GB\": [\"7\"],\n\"3003046 - BlackBerry Z10\": [\"7\"],\n\"3003100 - BlackBerry Z10 Blanco\": [\"7\"],\n\"3002703 - BlackBerry 9320\": [\"5\"],\n\"3003045 - BlackBerry 9320 Blanco\": [\"5\"],\n\"3003008 - Samsung Galaxy Note 2 Gris\": [\"7\"],\n\"3003009 - Samsung Galaxy Note 2 Blanco\": [\"7\"],\n\"3003082 - Samsung Galaxy S4 Blanco\": [\"7\"],\n\"3003083 - Samsung Galaxy S4 Negro\": [\"7\"],\n\"3002740 - Samsung Galaxy S3 Azul\": [\"7\"],\n\"3002741 - Samsung Galaxy S3 Blanco\": [\"7\"],\n\"3003041 - Samsung Galaxy S3 Negro\": [\"7\"],\n\"3003002 - Samsung Galaxy Mini Blanco\": [\"6\"],\n\"3003003 - Samsung Galaxy Mini Azul\": [\"6\"],\n\"3003068 - Samsung Galaxy S Duos Blanco Dual SIM\": [\"5\"],\n\"3003050 - Samsung Galaxy S Duos Negro Dual SIM\": [\"5\"],\n\"3003064 - Samsung Galaxy Young\": [\"4\"],\n\"3003063 - Samsung Galaxy Grand\": [\"7\"],\n\"3002410 - Samsung Galaxy Ace Negro\": [\"4\"],\n\"3002942 - Samsung Galaxy Ace Blanco\": [\"4\"],\n\"3003084 - Samsung Galaxy Ace 2 (Fame) Blanco\": [\"5\"],\n\"3003062 - Samsung Galaxy Ace 2 (Fame) Azul\": [\"5\"],\n\"3003152 - Samsung Galaxy S4 LTE Blanco\": [\"7\"],\n\"3003151 - Samsung Galaxy S4 LTE Negro\": [\"7\"],\n\"3003137 - Samsung Galaxy S4 Mini LTE Negro\": [\"7\"],\n\"3003144 - Samsung Galaxy S4 Mini LTE Blanco\": [\"7\"],\n\"3003145 - Samsung Galaxy S4 ZOOM\": [\"7\"],\n\"3002805 - Samsung Galaxy Pocket\": [\"3\"],\n\"3003060 - LG Optimus L9\": [\"6\"],\n\"3002941 - LG Optimus L5\": [\"5\"],\n\"3003058 - LG Optimus L5 Dual SIM\": [\"5\"],\n\"3003057 - LG Optimus L3 Dual SIM\": [\"4\"],\n\"3003112 - Huawei Ascend P6\": [\"7\"],\n\"3002939 - Huawei Ascend P1\": [\"6\"],\n\"3002940 - Huawei Ascend P1 XL\": [\"6\"],\n\"3003055 - Huawei Ascend Y300\": [\"3\"],\n\"3003133 - Huawei Ascend Y320\": [\"3\"],\n\"3003010 - Huawei Ascend Y210\": [\"2\"],\n\"3002938 - Huawei Ascend Y210 Dual Sim\": [\"2\"],\n\"3003040 - Huawei Honor 2\": [\"6\"],\n\"3003140 - Huawei G610\": [\"5\"],\n\"3003047 - Nokia Lumia 920\": [\"7\"],\n\"3002964 - Nokia Lumia 520\": [\"4\"],\n\"3003048 - Nokia Lumia 620\": [\"6\"],\n\"3003105 - Nokia Lumia 720\": [\"6\"],\n\"3003043 - ZTE V791\": [\"3\"]\n                    }\n},  \n  \n  \"containers\" : [ {\n    \"name\" : \"carta_clausula_odt\",\n    \"title\" : \"\",\n    \"rows\" : [ {\n      \"items\" : [ {\n        \"key\": \"fecha\",\n        \"type\": \"todayText\", \n        \"label\" : \"Fecha:\",\n        \"format\": \"%d/%m/%y %H:%M\",\n        \"monthNames\": [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\", \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"],\n        \"dayNames\": [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"]\n      },\n      {\n        \"key\" : \"numeroDocumentoVendedor\",\n        \"type\" : \"number\",\n        \"label\" : \"Documento Vendedor\",\n        \"required\" : true,\n        \"minLength\": \"3\",\n    \"maxLength\": \"10\",\n        \"size\" : \"28\",\n        \"placeHolder\" : \"vacío\",\n        \"validationRegex\": \"[0-9]+\"\n       }, {\n        \"key\" : \"tipoTransaccion\",\n        \"type\" : \"select\",\n        \"label\" : \"Tipo Transacción\",\n        \"required\" : true,\n        \"size\" : \"22\",\n        \"refValues\": \"tipo_transaccion\"\n      }\n      ]\n    }]},\n    {\n       \"name\" : \"clasula_datos_cliente\",\n    \"title\" : \"Datos del Cliente:\",\n    \"rows\" : [\n        {\n      \"items\" : [ {\n        \"key\" : \"nombres\",\n        \"type\" : \"text\",\n        \"label\" : \"Nombre y Apellidos / Razón social\",\n        \"required\" : true,\n        \"placeHolder\" : \"vacío\",\n        \"minLength\": \"3\",\n    \"maxLength\": \"50\",\n        \"size\" : \"40\"\n      },\n      {\n        \"key\" : \"tipoDocumento\",\n        \"type\" : \"select\",\n        \"label\" : \"Tipo Documento\",\n        \"required\" : true,\n        \"size\" : \"22\",\n        \"refValues\": \"tipo_documento\"\n      },\n       {\n        \"key\" : \"numeroDocumento\",\n        \"type\" : \"number\",\n        \"label\" : \"Número Documento\",\n        \"required\" : true,\n        \"placeHolder\" : \"vacío\",\n        \"size\" : \"26\",\n        \"minLength\": \"3\",\n    \"maxLength\": \"10\",\n        \"validationRegex\": \"[0-9]+\"\n      }\n      ]\n    }, \n    {\n      \"items\" : [ \n            {\n            \"key\" : \"correoElectronico\",\n            \"type\" : \"text\",\n            \"label\" : \"Correo Electrónico\",\n            \"required\" : true,\n            \"size\" : \"32\",\n            \"minLength\": \"6\",\n        \"maxLength\": \"40\",\n            \"placeHolder\" : \"vacío\",\n            \"validation\": \"email\"\n         },\n            {\n            \"key\": \"emailRepeat\", \n            \"type\": \"text\",\n            \"label\": \"Repetir Correo Electrónico\",\n            \"required\": true,\n            \"match\": \"correoElectronico\", \n             \"size\" : \"32\",\n            \"minLength\": \"6\",\n        \"maxLength\": \"40\",\n            \"placeHolder\" : \"vacío\",\n            \"validation\": \"email\"\n            } \n      ]\n    }]},\n    {\n       \"name\" : \"clasula_datos_cliente\",\n    \"title\" : \"Datos de Renovación:\",\n    \"rows\" : [    {\n      \"items\" : [\n      {\n        \"key\" : \"movil\",\n        \"type\" : \"tel\",\n        \"label\" : \"Móvil\",\n        \"required\" : true,\n        \"minLength\": \"10\",\n    \"maxLength\": \"10\",\n        \"size\" : \"16\",\n        \"placeHolder\" : \"vacío\",\n        \"validationRegex\": \"[0-9]+\"\n      },{\n        \"key\" : \"planSeleccionado\",\n        \"type\" : \"select\",\n        \"label\" : \"Plan Actual\",\n        \"required\" : true,\n        \"size\" : \"55\",\n        \"refValues\": \"planes\"\n      }, {\n        \"key\" : \"planDigitado\",\n        \"type\" : \"text\",\n        \"label\" : \"Otro Plan (Opcional)\",\n        \"required\" : false,\n        \"size\" : \"22\",\n        \"minLength\": \"3\",\n    \"maxLength\": \"50\",\n        \"placeHolder\" : \"vacío\"\n      }]},\n    {\n      \"items\" : [\n            {\n \"key\": \"marca\",\n \"type\": \"select\",\n \"label\" : \"Marca / Fabricante\",\n \"update\": \"referenciaEquipo\",\n \"list\" : \"marcas\",\n \"required\" : true,\n \"size\" : \"24\"\n},\n{\n  \"key\": \"referenciaEquipo\",\n  \"type\": \"select\",\n  \"label\": \"Referencia Equipo\",\n  \"nestedList\" : \"listaReferencias\",\n  \"required\" : true,\n  \"size\" : \"58\",\n  \"update\": \"gama\"\n},\n{\n \"key\": \"gama\",\n \"type\": \"select\",\n \"label\": \"Tipo Gama\",\n \"nestedList\" : \"listaGamas\",\n   \"required\" : true,\n  \"size\" : \"17\"\n}\n      ]\n    }, \n    {\n      \"items\" : [{\n        \"key\" : \"tipoEquipo\",\n        \"type\" : \"select\",\n        \"label\" : \"Tipo Equipo\",\n        \"required\" : true,\n        \"size\" : \"17\",\n        \"refValues\": \"tipo_equipo\"\n      },\n       {\n        \"key\" : \"mesesClausula\",\n        \"type\" : \"select\",\n        \"label\" : \"Meses Cláusula\",\n        \"required\" : true,\n        \"size\" : \"21\",\n        \"refValues\": \"tipo_clausula\"\n      },\n       {\n        \"key\" : \"imei\",\n        \"type\" : \"number\",\n        \"label\" : \"Imei\",\n        \"required\" : true,\n        \"placeHolder\" : \"vacío\",\n        \"minLength\": \"15\",\n    \"maxLength\": \"15\",\n        \"size\" : \"22\",\n        \"validationRegex\": \"[0-9]+\"\n      },\n      {\n            \"key\" : \"valorSubsidio\",\n            \"type\" : \"select\",\n            \"label\" : \"Valor Subsidio\",\n            \"required\" : true,\n            \"size\" : \"20\",\n            \"refValues\": \"tipo_subsidio\"\n      }\n      ]\n    }, \n    {\n     \"items\" : []\n    },\n    {\n      \"items\": [\n            {\n              \"key\": \"cambioChip\",\n              \"type\": \"radio\",\n              \"label\": \"Cambio de Chip Tigo?\",\n              \"values\": [\n                \"Si\", \"No\"\n              ],\n              \"size\": 30,\n              \"required\": true\n            },\n            {\n              \"key\": \"nuevoNumeroImsi\",\n              \"label\": \"Nuevo Número Imsi\",\n              \"type\": \"number\",\n              \"placeHolder\": \"vacío\",\n              \"size\": 22,\n              \"minLength\": \"15\",\n          \"maxLength\": \"15\",\n              \"required\": false\n            }\n          ]},{\n      \"items\" : [\n      {\n         \"key\": \"observaciones\",\n         \"type\": \"textarea\",\n         \"label\": \"Observaciones (Opcional, campo solo para información adicional importante)\",\n         \"required\" : false,\n         \"size\": \"100\",\n         \"height\": \"50\",\n         \"placeHolder\": \"Por favor Ingrese en este campo información SOLO si es relevante y diferente a la ya ingresada en los campos de la parte superior del formulario\",\n         \"maxLength\": \"100\"\n      }\n      ]\n    },\n    {\n      \"title\": \"Datos de Correspondencia\",\n      \"name\": \"correspondencia\",\n      \"rows\": [\n        {\n          \"items\": [\n            {\n              \"key\": \"direccion\",\n              \"type\": \"text\",\n              \"label\": \"Dirección\",\n              \"required\": true,\n              \"minLength\": \"3\",\n              \"maxLength\": \"500\",\n              \"size\": 50\n            },\n            {\n               \"key\": \"departamento\",\n               \"type\": \"select\",\n               \"label\": \"Departamento\",\n               \"update\": \"ciudad\",\n               \"list\" : \"departamentos\",\n               \"required\" : true,\n               \"size\" : \"25\"\n              },\n              {\n               \"key\": \"ciudad\",\n               \"type\": \"select\",\n               \"label\": \"Ciudad\",\n               \"nestedList\" : \"listaCiudades\",\n                \"required\" : true,\n                \"size\" : \"25\"\n              }\n          ]\n        }\n      ]\n    }\n          ]\n  } ]\n}",
+			"tipo_transaccion",
+			"observaciones",
+			"movil",
+			"seguridad",
+			"$",
+			"true",
+			"64",
+			"number",
+			"text",
+			"\"required\": true,",
+			"Paquete",
+			"paquete",
+			"50",
+			"to_char(FECHA_ING, 'YYYY-MM-DD HH24:MI:SS') AS ",
+			"to_char(FECHA_ING, 'YYYY-MM-DD'",
+			"to_char(FECHA_ING, 'YYYY-MM-DD')",
+			"(to_char(FECHA_ING, 'YYYY-MM-DD')",
+			"_ING",
+			"FECHA",
+			"COMMISSION_DATE",
+			"FECHA",
+			"GRESO",
+			"fecha",
+			"dbgw",
+			"SILENT",
+			"1",
+			"k",
+			"array($maxid)",
+			"Prueba",
+			"encontacto",
+			"sth3",
+			"sql2",
+			";",
+			" ",
+			"prepago",
+			"POS",
+			"Pos",
+			"pospago",
+			"CONSULTANDO",
+			"id",
+			" ($c registros)",
+			"dbgw",
+			"mail.",
+			"INFO_CLIENTE_DEMOGRA",
+			"@mail.",
+			".zip",
+			"retail",
+			"/home/app/",
+			"material",
+			"plu",
+			"plan",
+			"plans",
+			" width: 200px",
+			" width: 95%",
+			"truncate",
+			"info_inscritos",
+			"ayer",
+			"sth",
+			"tablero",
+			"no-reply@tigo.com.co",
+			"Helper::",
+			"dbgw",
+			"100",
+			"th",
+			"$day ",
+			"$day",
+			"_AUDIT",
+			"id_client",
+			"2px",
+			"5px",
+			"15",
+			"total",
+			"Ussd",
+			"Money",
+			"-1",
+			"$row->CONSULT_DATE",
+			"first_date",
+			"1.8",
+			"1em",
+			"1.4em",
+			"2.2em",
+			"Tx",
+			"color",
+			"qtys",
+			"SILENT",
+			"departments",
+			"DEPARTMENTS",
+			"MAPGW_TRANSACTION_LOG",
+			"START_DATE",
+			"FECHA_NACIMIENTO",
+			"demogra",
+			"app/",
+			"prom",
+			"envios",
+			"EMAIL",
+			"Before",
+			"before",
+			"Before",
+			"before",
+			"Before",
+			"before ",
+			"result_emailFlp",
+			"result_emailFlps",
+			"results",
+			"Antes",
+			"Facturación"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			";",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "screen.css",
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 755.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gene",
+				"configuration/general.php"
+			],
+			[
+				"in",
+				"includes/init.php"
+			],
+			[
+				"vendor",
+				"classes/vendor.php"
+			],
+			[
+				"init",
+				"includes/init.php"
+			],
+			[
+				"altas",
+				"processes/altas_score.php"
+			],
+			[
+				"bio",
+				"classes/bio.php"
+			],
+			[
+				"bo",
+				"fonts/dejavu/DejaVuSans-BoldOblique-webfont.svg"
+			],
+			[
+				"acti",
+				"classes/activation.php"
+			],
+			[
+				"adminview",
+				"libraries/phpExcel/Documentation/API/PHPExcel_Worksheet/PHPExcel_Worksheet_SheetView.html"
+			],
+			[
+				"main",
+				"templates/main.php"
+			],
+			[
+				"nit",
+				"libraries/jquery.jcrop/demos/non-image.html"
+			],
+			[
+				"hel",
+				"classes/helper.php"
+			],
+			[
+				"mainmen",
+				"templates/main_nomenu.php"
+			],
+			[
+				"renov",
+				"classes/renovation.php"
+			],
+			[
+				"data",
+				"classes/datacredito.php"
+			],
+			[
+				"day",
+				"controllers/renovations/day.php"
+			],
+			[
+				"datacre",
+				"classes/datacredito.php"
+			],
+			[
+				"iniy",
+				"processes/evidente_history.php"
+			],
+			[
+				"ussd",
+				"controllers/activations/ussd.php"
+			],
+			[
+				"transi",
+				"controllers/activations/transits.php"
+			],
+			[
+				"genera",
+				"configuration/general.php"
+			],
+			[
+				"perm",
+				"classes/permission.php"
+			],
+			[
+				"uplo",
+				"classes/upload.php"
+			],
+			[
+				"payment",
+				"classes/payment.php"
+			],
+			[
+				"bill",
+				"controllers/costs/billing.php"
+			],
+			[
+				"usabi",
+				"controllers/bio/usabilityDetails.php"
+			],
+			[
+				"billi",
+				"controllers/payments/billing.php"
+			],
+			[
+				"geer",
+				"controllers/payments/general.php"
+			],
+			[
+				"detai",
+				"controllers/payments/detail.php"
+			],
+			[
+				"queu",
+				"mailer/classes/queue.php"
+			],
+			[
+				"pro",
+				"mailer/proccess_queue.php"
+			],
+			[
+				"campa",
+				"mailer/classes/campaign.php"
+			],
+			[
+				"payme",
+				"classes/payment.php"
+			],
+			[
+				"ctiva",
+				"classes/activation.php"
+			],
+			[
+				"gneral",
+				"controllers/payments/general.php"
+			],
+			[
+				"activac",
+				"classes/activation_cost.php"
+			],
+			[
+				"mainme",
+				"templates/main_nomenu.php"
+			],
+			[
+				"check",
+				"admin/controllers/login/check.php"
+			],
+			[
+				"box",
+				"Boxfile"
+			],
+			[
+				"admin",
+				"views/admin.php"
+			],
+			[
+				"logincheck",
+				"admin/controllers/login/check.php"
+			],
+			[
+				"purclist",
+				"admin/controllers/purchaseOrders/list.php"
+			],
+			[
+				"classproduct",
+				"classes/product.php"
+			],
+			[
+				"productedit",
+				"admin/controllers/products/edit.php"
+			],
+			[
+				"print",
+				"admin/controllers/purchaseOrders/print.php"
+			],
+			[
+				"edit",
+				"admin/controllers/banners/edit.php"
+			],
+			[
+				"create",
+				"admin/controllers/banners/create.php"
+			],
+			[
+				"list",
+				"admin/controllers/banners/list.php"
+			],
+			[
+				"delete",
+				"admin/controllers/banners/delete.php"
+			],
+			[
+				"banne",
+				"classes/banner.php"
+			],
+			[
+				"update",
+				"admin/controllers/banners/update.php"
+			],
+			[
+				"incl",
+				"admin/incl_user.php"
+			],
+			[
+				"upl",
+				"classes/upload.php"
+			],
+			[
+				"banner",
+				"classes/banner.php"
+			],
+			[
+				"admin.less",
+				"admin/less/admin.less"
+			],
+			[
+				"lis",
+				"admin/controllers/admins/list.php"
+			],
+			[
+				"adminssave",
+				"admin/controllers/admins/save.php"
+			],
+			[
+				"admincre",
+				"admin/controllers/admins/create.php"
+			],
+			[
+				"login",
+				"admin/css/loginCheck.php"
+			],
+			[
+				"db",
+				"configuration/db.php"
+			],
+			[
+				"purchaedit",
+				"admin/controllers/purchaseOrders/edit.php"
+			],
+			[
+				"purchaseedit",
+				"admin/controllers/purchaseOrders/edit.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
